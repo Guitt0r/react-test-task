@@ -1,0 +1,22 @@
+.item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    box-sizing: border-box;
+    border-top: 1px solid gray;
+}
+.active{
+    border-left: 7px solid crimson;
+}
+.comments{
+    background-color: #535bf2;
+    border-radius: 999999px;
+    width: 1em;
+    height: auto;
+    padding: 0 4px;
+    color: white;
+}
+.button{
+    margin: 0.25em;
+}

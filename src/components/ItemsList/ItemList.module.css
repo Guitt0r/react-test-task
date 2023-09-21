@@ -1,0 +1,13 @@
+.wrapper {
+    color: #000000;;
+    border-radius: 1em;
+}
+
+.wrapper h1 {
+    text-align: center;
+}
+
+.wrapper ul {
+    list-style-type: none;
+    padding: 0;
+}

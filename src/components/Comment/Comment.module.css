@@ -1,0 +1,19 @@
+.comment{
+    display: flex;
+    justify-content: start;
+    gap: 1em;
+    align-items: center;
+    width: 100%;
+    box-sizing: border-box;
+    border-top: 1px solid gray;
+    padding: 3px;
+}
+.color{
+    border-radius: 2px;
+    width: 40px;
+    height: 40px;
+}
+.text{
+    font-size: 1.25em;
+    font-style: italic;
+}
